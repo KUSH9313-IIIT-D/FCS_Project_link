@@ -1,1 +1,1 @@
-'wss://retention-subject-senegal-contain.trycloudflare.com/'
+'ss://retention-subject-senegal-contain.trycloudflare.com/'
