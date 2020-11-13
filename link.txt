@@ -1,1 +1,1 @@
-{'link':'address'}
+'wss://retention-subject-senegal-contain.trycloudflare.com/'
