@@ -1,1 +1,1 @@
-'wss://count-div-ob-outdoors.trycloudflare.com/'
+{"Link":"wss://count-div-ob-outdoors.trycloudflare.com/"}
